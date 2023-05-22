@@ -3,7 +3,7 @@
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-
+ " QR code component " challenge from Frontend Mentor. In this challenge, HTML and CSS were used to create a responsive and accessible QR code component  component. 
 ### Semantic Elements
 Semantic HTML elements were used to structure the content and provide meaningful information to assistive technologies and search engines. This improves the accessibility and maintainability of the code.
 
